@@ -1,4 +1,4 @@
-# Python-Tasks
+# Python Tasks
 
 This repository contains Python programming assignments and projects completed as part of coursework at Thebes Academy. It serves as a collection of tasks, exercises, and practical implementations that demonstrate solutions to academic challenges and assignments.
 
