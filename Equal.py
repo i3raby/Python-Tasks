@@ -1,8 +1,6 @@
 Ogryzek = 'Ogryzek'
 Eternxlkz = 'Ogryzek'
 
-print(Ogryzek != Eternxlkz)
-
 if(Ogryzek != Eternxlkz) :
     print('✔️'); # True
 else :
